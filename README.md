@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noor E Arafin Rafi</h1>
 <h3 align="center">Passoniate Software Quality Assurance Engineer.</h3>
-<img src="[img_chania.jpg](https://media.licdn.com/dms/image/D5616AQEii8VHepoUZw/profile-displaybackgroundimage-shrink_350_1400/0/1707503977576?e=1717632000&v=beta&t=NV5EO4LYI1ymhty3OxBdYM9GbYeJNeiyvLOc2nX72pI)" alt="Flowers in Chania">
+<img src="https://media.licdn.com/dms/image/D5616AQEii8VHepoUZw/profile-displaybackgroundimage-shrink_350_1400/0/1707503977576?e=1717632000&v=beta&t=NV5EO4LYI1ymhty3OxBdYM9GbYeJNeiyvLOc2nX72pI" alt="Flowers in Chania">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorearafin&label=Profile%20views&color=0e75b6&style=flat" alt="noorearafin" /> </p>
 
