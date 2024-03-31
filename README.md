@@ -1,5 +1,5 @@
-<img align="center" style="width:300px;height:300px;" src="https://media3.giphy.com/avatars/HollerStudios/1l8ZK6CbbUM8.gif" alt="Flowers in Chania">
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+<img align="center" style="width:300px;height:300px;" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" alt="Flowers in Chania">
+https://giphy.com/embed/bGgsc5mWoryfgKBx1u
 <h1 align="center">Hi 👋, I'm Noor E Arafin Rafi</h1>
 <h3 align="center">Passoniate Software Quality Assurance Engineer.</h3>
 
