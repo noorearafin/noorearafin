@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/avatars/HollerStudios/1l8ZK6CbbUM8.gif" alt="Flowers in Chania" align = "center">
+<img align="center" src="https://media3.giphy.com/avatars/HollerStudios/1l8ZK6CbbUM8.gif" alt="Flowers in Chania">
 <h1 align="center">Hi 👋, I'm Noor E Arafin Rafi</h1>
 <h3 align="center">Passoniate Software Quality Assurance Engineer.</h3>
 
