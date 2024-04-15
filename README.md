@@ -1,5 +1,4 @@
-<img align="center" style="width:300px;height:300px;" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" alt="Flowers in Chania">
-https://giphy.com/embed/bGgsc5mWoryfgKBx1u
+<img align="center" style="width:300px;height:300px;" src="[https://giphy.com/embed/bGgsc5mWoryfgKBx1u](https://png.pngtree.com/png-clipart/20230913/original/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_11072679.png)" alt="Fad">
 <h1 align="center">Hi 👋, I'm Noor E Arafin Rafi</h1>
 <h3 align="center">Passoniate Software Quality Assurance Engineer.</h3>
 
