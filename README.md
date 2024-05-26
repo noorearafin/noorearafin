@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="Screenshot 2024-05-26 145615.png" alt="Welcome!" width="300"/>
+<img src="Screenshot 2024-05-26 145615.png" alt="Welcome!" width="500"/>
 
 </div>
 <h1 align="center">Hi 👋, I'm Noor E Arafin Rafi</h1>
