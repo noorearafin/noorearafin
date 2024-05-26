@@ -1,5 +1,5 @@
 <p align="center">
-  <iframe src="https://giphy.com/embed/B4xdycvhDq7qM3cdh2" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/redbrick-testing-mic-check-leadpages-B4xdycvhDq7qM3cdh2">via GIPHY</a></p>
+  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/B4xdycvhDq7qM3cdh2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/redbrick-testing-mic-check-leadpages-B4xdycvhDq7qM3cdh2">via GIPHY</a></p>
 </p>
 <h1 align="center">Hi 👋, I'm Noor E Arafin Rafi</h1>
 <h3 align="center">Software Quality Assurance Engineer.</h3>
