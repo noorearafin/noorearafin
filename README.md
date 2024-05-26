@@ -1,6 +1,6 @@
 </div>
 
-<div align="center" width="50">
+<div align="center">
 
 <img src="Screenshot 2024-05-26 145615.png" alt="Welcome!" width="300"/>
 
