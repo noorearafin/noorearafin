@@ -1,5 +1,4 @@
-<div><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprGaIPKM383Oe_knQQ-rGzT0a73hSILwoJ4fqoYc3yYmNDk5k7CTj-V40c1BjTn8km9A&usqp=CAU" alt="Fad">
-</div>
+
 <h1 align="center">Hi 👋, I'm Noor E Arafin Rafi</h1>
 <h3 align="center">Software Quality Assurance Engineer.</h3>
 
