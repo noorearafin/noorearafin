@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" alt="Animated GIF" width="300" height="300">
+</p>
 <h1 align="center">Hi 👋, I'm Noor E Arafin Rafi</h1>
 <h3 align="center">Software Quality Assurance Engineer.</h3>
 
