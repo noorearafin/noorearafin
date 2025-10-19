@@ -30,31 +30,57 @@
 
 **Languages & Frameworks:**  
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="60" alt="selenium" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+  <img src="https://github.com/microsoft/playwright/blob/main/packages/web/src/assets/playwright-logo.svg" height="60" alt="playwright logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
 </div>
 
 **Development & Design Tools:**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=illustrator" height="60" alt="illustrator logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=premiere" height="60" alt="premiere logo" />
+</div>
+
+**Test Management and Communications Tools:**
+
+<div align="center">
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="Azure DevOps Logo" height="60" />
+  <img width="12" />
+<img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="Microsoft Excel Logo" height="60" />
+   <img width="12" />
+    <img src="https://atlassian.design/assets/images/logos/jira.svg" alt="Jira Logo" height="60" />
+   <img width="12" />
+   <img src="https://a.slack-edge.com/80588/marketing/img/meta/favicon-96.png" alt="Slack Logo" height="60" />
+    <img width="12" />
+  <img src="https://www.logo.wine/a/logo/Microsoft_Teams/Microsoft_Teams-Logo.wine.svg" alt="Microsoft Teams Logo" height="60" />
+
 </div>
 
 ---
