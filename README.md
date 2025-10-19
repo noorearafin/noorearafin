@@ -79,8 +79,9 @@
 ## 🚀 Achievements & Statistics
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=noorearafin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophy" />
-  <img src="https://streak-stats.demolab.com?user=noorearafin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorearafin&size_weight=1&count_weight=0" />
+  <img src="https://streak-stats.demolab.com?user=noorearafin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" /></br>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=noorearafin&theme=dracula&hide=swift,c-sharp'/>
+
 </div>
 
 ## 🧑‍💻 My Projects:
