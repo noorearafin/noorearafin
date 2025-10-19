@@ -2,21 +2,26 @@
   <img src="Screenshot 2024-05-26 145615.png" alt="Welcome!" width="500"/>
 </div>
 <p align="center">
+  <a href="https://noorearafin.wixsite.com/rafi" target="_blank">Click here to visit my site</a>
+</p>
+<p align="center">
  <b>Github profile views</b></br>
   <img src="https://komarev.com/ghpvc/?username=noorearafin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-# 👋 Hi, I'm **Noor E Arafin Rafi**
-### Software Engineer in Test - I | Test Automation Engineer
+<div align="center">
+  <b>👋 Hi, I'm Noor E Arafin Rafi</b> </br>
+ Software Engineer in Test - I | Test Automation Engineer
+</div>
 
-
+</br>
 
 ## 🌟 Current Focus
-- 🔭 **Currently working on:** https://onemimir.com/about , https://github.com/noorearafin/30-days-js-challenge
-- 🌱 **Learning:** **Test Automation** to enhance my QA skills
-- 💬 **Ask me about:** SQA, QA Automation, Best Practices in Testing
+- 🔭 **Currently working as SDET-I at Craftsmen**
+- 🌱 **Implement AI in test automation**
+- 💬 **Ask me about: SQA, QA Automation, Best Practices in Testing**
 
-
+</br>
 
 ## 💻 Skills & Tools
 
@@ -75,6 +80,7 @@
 
 </div>
 
+</br>
 
 ## 🚀 Achievements & Statistics
 <div align="center">
@@ -85,12 +91,12 @@
 </div>
 
 ## 🧑‍💻 My Projects:
-You can explore all my projects at [my GitHub](https://github.com/noorearafin/).
+You can explore all my projects at [my GitHub](https://github.com/noorearafin?tab=repositories).
 
 
 ## 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/noor-e-arafin-rafi-18a2911a7/) 
-- 📧 **Email:** [noorearafin@gmail.com](mailto:noorearafin@gmail.com)
+- [noorearafin@gmail.com](mailto:noorearafin@gmail.com)
 
 
 ## 🚀 Let's Build Something Amazing!
