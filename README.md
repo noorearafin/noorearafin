@@ -3,7 +3,7 @@
 </div>
 
 # 👋 Hi, I'm **Noor E Arafin Rafi**
-### Software Quality Assurance Engineer | Test Automation Enthusiast
+### Software Engineer in Test - I | Test Automation Engineer
 
 
 <p align="left">
@@ -11,7 +11,7 @@
 </p>
 
 ## 🌟 Current Focus
-- 🔭 **Currently working on:** https://github.com/noorearafin/30-days-js-challenge
+- 🔭 **Currently working on:** https://onemimir.com/about , https://github.com/noorearafin/30-days-js-challenge , 
 - 🌱 **Learning:** **Test Automation** to enhance my QA skills
 - 💬 **Ask me about:** SQA, QA Automation, Best Practices in Testing
 
