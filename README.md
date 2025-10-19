@@ -1,17 +1,18 @@
 <div align="center">
   <img src="Screenshot 2024-05-26 145615.png" alt="Welcome!" width="500"/>
 </div>
+<p align="center">
+ <b>Github profile views</b></br>
+  <img src="https://komarev.com/ghpvc/?username=noorearafin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 # 👋 Hi, I'm **Noor E Arafin Rafi**
 ### Software Engineer in Test - I | Test Automation Engineer
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=noorearafin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
 
 ## 🌟 Current Focus
-- 🔭 **Currently working on:** https://onemimir.com/about , https://github.com/noorearafin/30-days-js-challenge , 
+- 🔭 **Currently working on:** https://onemimir.com/about , https://github.com/noorearafin/30-days-js-challenge
 - 🌱 **Learning:** **Test Automation** to enhance my QA skills
 - 💬 **Ask me about:** SQA, QA Automation, Best Practices in Testing
 
