@@ -87,7 +87,13 @@
   <img src="https://github-profile-trophy.vercel.app?username=noorearafin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophy" />
   <img src="https://streak-stats.demolab.com?user=noorearafin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" /></br>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=noorearafin&theme=dracula&hide=swift,c-sharp'/>
+  <p align="center">
+  <a href="https://www.hackerrank.com/noorearafin">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
 
+  
 </div>
 
 ## 🧑‍💻 My Projects:
