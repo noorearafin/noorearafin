@@ -1,173 +1,154 @@
+<!-- Cyberpunk Neon Header -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,100:1a1a1a&height=150&section=header&text=&fontSize=0" width="100%"/>
+</div>
+
 <div align="center">
 
-<!-- Gradient Header with Glitch Effect -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:134e4a,50:065f46,100:047857&height=180&section=header&text=NOOR%20E%20ARAFIN%20RAFI&fontSize=42&fontColor=d1fae5&animation=scaleIn&fontAlignY=38&desc=⚡%20SDET-I%20•%20Test%20Automation%20Engineer%20⚡&descAlignY=58&descSize=14&descColor=6ee7b7" width="100%"/>
+```
+███╗   ██╗ ██████╗  ██████╗ ██████╗     ███████╗     █████╗ ██████╗  █████╗ ███████╗██╗███╗   ██╗
+████╗  ██║██╔═══██╗██╔═══██╗██╔══██╗    ██╔════╝    ██╔══██╗██╔══██╗██╔══██╗██╔════╝██║████╗  ██║
+██╔██╗ ██║██║   ██║██║   ██║██████╔╝    █████╗      ███████║██████╔╝███████║█████╗  ██║██╔██╗ ██║
+██║╚██╗██║██║   ██║██║   ██║██╔══██╗    ██╔══╝      ██╔══██║██╔══██╗██╔══██║██╔══╝  ██║██║╚██╗██║
+██║ ╚████║╚██████╔╝╚██████╔╝██║  ██║    ███████╗    ██║  ██║██║  ██║██║  ██║██║     ██║██║ ╚████║
+╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝    ╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═══╝
+```
 
-<!-- Animated Status -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3000&pause=800&color=10B981&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Crafting+Bug-Free+Experiences;Automation+%7C+Strategy+%7C+Quality" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=500&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=SDET-I+%40+Craftsmen;Test+Automation+Engineer+%7C+Quality+Advocate" alt="Title"/>
 
 <br/>
 
-<!-- Quick Links -->
-<a href="https://noorearafin.trendport.com"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-1a1a2e?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/noor-e-arafin-rafi-18a2911a7/"><img src="https://img.shields.io/badge/LINKEDIN-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=10b981"/></a>
-<a href="mailto:noorearafin@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a1a2e?style=for-the-badge&logo=gmail&logoColor=10b981"/></a>
-<a href="https://www.hackerrank.com/noorearafin"><img src="https://img.shields.io/badge/HACKERRANK-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=10b981"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=noorearafin&color=10b981&style=flat&label=PROFILE+VIEWS" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=noorearafin&color=f97316&style=flat-square&label=VISITORS)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-noorearafin.trendport.com-f97316?style=flat-square)](https://noorearafin.trendport.com)
 
 </div>
 
----
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="140"/>
-
-### 🧑‍💻 &nbsp;About Me
-
-**SDET-I @ Craftsmen** — Building robust test frameworks and implementing AI-driven automation strategies.
-
-- 🔬 &nbsp;Specializing in **E2E Test Automation**
-- 🤖 &nbsp;Exploring **AI/ML in Testing**
-- 🎯 &nbsp;Passionate about **Quality Engineering**
-- ☕ &nbsp;Fueled by coffee and clean code
-
-<br clear="right"/>
-
----
-
-### ⚙️ &nbsp;Tech Stack
+<br/>
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="55%" valign="top">
 
-#### 🧪 Testing
-<p>
-<img src="https://img.shields.io/badge/Playwright-1a1a2e?style=flat-square&logo=playwright&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/Selenium-1a1a2e?style=flat-square&logo=selenium&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/Cypress-1a1a2e?style=flat-square&logo=cypress&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/Appium-1a1a2e?style=flat-square&logo=appium&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/Postman-1a1a2e?style=flat-square&logo=postman&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/JMeter-1a1a2e?style=flat-square&logo=apache&logoColor=10b981"/>
-</p>
+## ▸ PROFILE
 
-</td>
-<td valign="top" width="33%">
+```yaml
+name: Noor E Arafin Rafi
+role: Software Engineer in Test - I
+company: Craftsmen
+location: Bangladesh
 
-#### 💻 Languages
-<p>
-<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=10b981"/>
-</p>
+current_focus:
+  - AI-Powered Test Automation
+  - Scalable Framework Design
+  - Performance Engineering
+
+expertise:
+  - Test Strategy & Planning
+  - E2E Automation
+  - API Testing
+  - CI/CD Integration
+```
 
 </td>
-<td valign="top" width="33%">
+<td width="45%" valign="top">
 
-#### ☁️ DevOps
-<p>
-<img src="https://img.shields.io/badge/AWS-1a1a2e?style=flat-square&logo=amazon-aws&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/Jenkins-1a1a2e?style=flat-square&logo=jenkins&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=10b981"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-1a1a2e?style=flat-square&logo=azure-devops&logoColor=10b981"/>
-</p>
+## ▸ QUICK STATS
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noorearafin&show_icons=true&hide_title=true&hide_border=true&bg_color=0a0a0a&text_color=d4d4d4&icon_color=f97316&title_color=f97316&hide=contribs&custom_title=Stats)
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 🗺️ &nbsp;QA Roadmap
-
-```
-                                    🎯 QA ENGINEER JOURNEY
-     ════════════════════════════════════════════════════════════════════
-
-          ┌──────────┐      ┌──────────┐      ┌──────────┐      ┌──────────┐
-          │FOUNDATION│ ───► │  MANUAL  │ ───► │AUTOMATION│ ───► │   API    │
-          │    ✓     │      │    ✓     │      │    ✓     │      │    ✓     │
-          └──────────┘      └──────────┘      └──────────┘      └──────────┘
-               │                 │                 │                 │
-          ┌────┴────┐       ┌────┴────┐       ┌────┴────┐       ┌────┴────┐
-          │ SDLC    │       │ Test    │       │Selenium │       │ REST    │
-          │ STLC    │       │ Design  │       │Playwright│      │ GraphQL │
-          │ Agile   │       │ Defects │       │ POM/BDD │       │ Postman │
-          └─────────┘       └─────────┘       └─────────┘       └─────────┘
-
-          ┌──────────┐      ┌──────────┐
-          │  CI/CD   │ ───► │ ADVANCED │  ◄── YOU ARE HERE
-          │    ✓     │      │    ◐     │
-          └──────────┘      └──────────┘
-               │                 │
-          ┌────┴────┐       ┌────┴────┐
-          │ Jenkins │       │  Perf   │
-          │ Docker  │       │Security │
-          │ Actions │       │AI in QA │
-          └─────────┘       └─────────┘
-```
-
----
-
-### 📊 &nbsp;GitHub Stats
+## ▸ ARSENAL
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=noorearafin&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=10b981&icon_color=10b981&text_color=eaeaea&hide_border=true&border_radius=12" alt="GitHub Stats"/>
-<img width="390" src="https://streak-stats.demolab.com?user=noorearafin&theme=dark&background=1a1a2e&ring=10b981&fire=f59e0b&currStreakLabel=10b981&sideLabels=10b981&currStreakNum=eaeaea&sideNums=eaeaea&dates=6b7280&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+| AUTOMATION | LANGUAGES | DEVOPS | TOOLS |
+|:----------:|:---------:|:------:|:-----:|
+| ![](https://img.shields.io/badge/Playwright-0a0a0a?style=flat-square&logo=playwright&logoColor=f97316) | ![](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=f97316) | ![](https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazon-aws&logoColor=f97316) | ![](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=f97316) |
+| ![](https://img.shields.io/badge/Selenium-0a0a0a?style=flat-square&logo=selenium&logoColor=f97316) | ![](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=f97316) | ![](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=f97316) | ![](https://img.shields.io/badge/Jira-0a0a0a?style=flat-square&logo=jira&logoColor=f97316) |
+| ![](https://img.shields.io/badge/Cypress-0a0a0a?style=flat-square&logo=cypress&logoColor=f97316) | ![](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=f97316) | ![](https://img.shields.io/badge/Jenkins-0a0a0a?style=flat-square&logo=jenkins&logoColor=f97316) | ![](https://img.shields.io/badge/VS_Code-0a0a0a?style=flat-square&logo=visual-studio-code&logoColor=f97316) |
+| ![](https://img.shields.io/badge/Postman-0a0a0a?style=flat-square&logo=postman&logoColor=f97316) | ![](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=f97316) | ![](https://img.shields.io/badge/GitHub_Actions-0a0a0a?style=flat-square&logo=github-actions&logoColor=f97316) | ![](https://img.shields.io/badge/Azure_DevOps-0a0a0a?style=flat-square&logo=azure-devops&logoColor=f97316) |
 
 </div>
-
-<div align="center">
-<img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=noorearafin&bg_color=1a1a2e&color=10b981&line=10b981&point=f59e0b&area=true&area_color=10b98133&hide_border=true&radius=12" alt="Activity Graph"/>
-</div>
-
----
-
-### 🏆 &nbsp;Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=noorearafin&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies"/>
-
-</div>
-
----
-
-### 📈 &nbsp;Weekly Development
-
-<!--START_SECTION:waka-->
-```text
-🧪 Testing        ████████████░░░░░   65%
-🔧 Framework Dev  ████░░░░░░░░░░░░░   20%
-📝 Documentation  ██░░░░░░░░░░░░░░░   10%
-🔍 Code Review    █░░░░░░░░░░░░░░░░    5%
-```
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-
-### 💬 &nbsp;Let's Connect
 
 <br/>
 
-<a href="https://noorearafin.trendport.com">
-<img src="https://img.shields.io/badge/noorearafin.trendport.com-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=10b981" alt="Website"/>
-</a>
+## ▸ QA ROADMAP
 
-<br/><br/>
+<div align="center">
 
-*"Quality means doing it right when no one is looking."* — Henry Ford
+```
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■░░░░░░░░░░] 85%      ║
+║                                                                                      ║
+║   ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐           ║
+║   │ ██████  │───▶│ ██████  │───▶│ ██████  │───▶│ ██████  │───▶│ █████░  │           ║
+║   │ BASICS  │    │ MANUAL  │    │  AUTO   │    │   API   │    │ DEVOPS  │           ║
+║   │  100%   │    │  100%   │    │  100%   │    │  100%   │    │   85%   │           ║
+║   └─────────┘    └─────────┘    └─────────┘    └─────────┘    └─────────┘           ║
+║        ✓              ✓              ✓              ✓           CURRENT             ║
+║                                                                                      ║
+║   ═══════════════════════════════════════════════════════════════════════           ║
+║                                                                                      ║
+║   NEXT:  [ ] Performance Testing   [ ] Security Testing   [ ] AI in QA              ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=10b981&height=2&section=footer" width="100%"/>
+## ▸ METRICS
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=noorearafin&theme=dark&hide_border=true&background=0a0a0a&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=d4d4d4&currStreakNum=d4d4d4&sideNums=d4d4d4&dates=6b7280&border_radius=0" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorearafin&layout=compact&hide_border=true&bg_color=0a0a0a&text_color=d4d4d4&title_color=f97316&hide=swift,c-sharp&border_radius=0" width="40%"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noorearafin&bg_color=0a0a0a&color=f97316&line=f97316&point=ffffff&area=true&area_color=f9731620&hide_border=true&custom_title=" width="95%"/>
+
+</div>
+
+<br/>
+
+## ▸ CONNECT
+
+<div align="center">
+
+[![](https://img.shields.io/badge/noorearafin.trendport.com-0a0a0a?style=for-the-badge&logo=safari&logoColor=f97316)](https://noorearafin.trendport.com)
+[![](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=f97316)](https://www.linkedin.com/in/noor-e-arafin-rafi-18a2911a7/)
+[![](https://img.shields.io/badge/noorearafin@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=f97316)](mailto:noorearafin@gmail.com)
+[![](https://img.shields.io/badge/HackerRank-0a0a0a?style=for-the-badge&logo=hackerrank&logoColor=f97316)](https://www.hackerrank.com/noorearafin)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+───────────────────────────────────────────────────────────────────────────
+                    "First, solve the problem. Then, write the code."
+───────────────────────────────────────────────────────────────────────────
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f97316&height=3&section=footer" width="100%"/>
