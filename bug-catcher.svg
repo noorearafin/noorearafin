@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 120">
+  <defs>
+    <!-- Bug gradient -->
+    <radialGradient id="bugBody" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#ff6b6b"/>
+      <stop offset="100%" stop-color="#e11d48"/>
+    </radialGradient>
+    
+    <!-- Net gradient -->
+    <linearGradient id="netGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#16a34a" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- White Background -->
+  <rect width="850" height="120" fill="#ffffff"/>
+  
+  <!-- Decorative dots -->
+  <circle cx="50" cy="20" r="2" fill="#e11d48" opacity="0.4"/>
+  <circle cx="150" cy="100" r="1.5" fill="#22c55e" opacity="0.4"/>
+  <circle cx="300" cy="15" r="1" fill="#f97316" opacity="0.4"/>
+  <circle cx="500" cy="105" r="2" fill="#e11d48" opacity="0.4"/>
+  
+  <!-- Bug 1 - Main bug (ROTATED 180° to face right) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+      values="-60,50; 620,50; 620,50" dur="5s" repeatCount="indefinite" calcMode="linear"/>
+    
+    <g transform="rotate(180, 10, 0)">
+      <!-- Wings -->
+      <ellipse cx="18" cy="-8" rx="10" ry="6" fill="#e11d48" opacity="0.2">
+        <animate attributeName="ry" values="6;4;6" dur="0.1s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="18" cy="8" rx="10" ry="6" fill="#e11d48" opacity="0.2">
+        <animate attributeName="ry" values="6;4;6" dur="0.1s" repeatCount="indefinite"/>
+      </ellipse>
+      
+      <!-- Body -->
+      <ellipse cx="20" cy="0" rx="16" ry="10" fill="url(#bugBody)"/>
+      <ellipse cx="6" cy="0" rx="10" ry="8" fill="url(#bugBody)"/>
+      
+      <!-- Head -->
+      <circle cx="-6" cy="0" r="7" fill="#1f2937"/>
+      
+      <!-- Eyes -->
+      <circle cx="-8" cy="-3" r="3" fill="#fff"/>
+      <circle cx="-8" cy="3" r="3" fill="#fff"/>
+      <circle cx="-9" cy="-3" r="1.5" fill="#0d1117"/>
+      <circle cx="-9" cy="3" r="1.5" fill="#0d1117"/>
+      
+      <!-- Antennae -->
+      <path d="M-12,-5 Q-18,-15 -22,-12" stroke="#1f2937" stroke-width="2" fill="none"/>
+      <path d="M-12,5 Q-18,15 -22,12" stroke="#1f2937" stroke-width="2" fill="none"/>
+      <circle cx="-22" cy="-12" r="2" fill="#e11d48"/>
+      <circle cx="-22" cy="12" r="2" fill="#e11d48"/>
+      
+      <!-- Legs -->
+      <g stroke="#1f2937" stroke-width="2" fill="none">
+        <path d="M8,-8 Q4,-18 0,-20"/>
+        <path d="M18,-9 Q18,-20 16,-22"/>
+        <path d="M28,-8 Q32,-18 36,-18"/>
+        <path d="M8,8 Q4,18 0,20"/>
+        <path d="M18,9 Q18,20 16,22"/>
+        <path d="M28,8 Q32,18 36,18"/>
+      </g>
+      
+      <!-- Spots on body -->
+      <circle cx="14" cy="-3" r="3" fill="#0d1117" opacity="0.3"/>
+      <circle cx="24" cy="2" r="2" fill="#0d1117" opacity="0.3"/>
+    </g>
+  </g>
+  
+  <!-- Bug 2 - Smaller (ROTATED 180° to face right) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+      values="-40,80; 600,80; 600,80" dur="6s" begin="1.5s" repeatCount="indefinite"/>
+    
+    <g transform="rotate(180, 5, 0)">
+      <ellipse cx="12" cy="0" rx="10" ry="6" fill="#f97316"/>
+      <ellipse cx="3" cy="0" rx="6" ry="5" fill="#f97316"/>
+      <circle cx="-4" cy="0" r="4" fill="#1f2937"/>
+      <circle cx="-5" cy="-1.5" r="1.5" fill="#fff"/>
+      <circle cx="-5" cy="1.5" r="1.5" fill="#fff"/>
+      <path d="M-7,-3 Q-11,-8 -13,-6" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+      <path d="M-7,3 Q-11,8 -13,6" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    </g>
+  </g>
+  
+  <!-- Bug 3 - Tiny (ROTATED 180° to face right) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+      values="-30,30; 590,30; 590,30" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+    
+    <g transform="rotate(180, 4, 0)">
+      <ellipse cx="8" cy="0" rx="7" ry="4" fill="#a855f7"/>
+      <circle cx="1" cy="0" r="3" fill="#1f2937"/>
+      <circle cx="0" cy="-1" r="1" fill="#fff"/>
+      <circle cx="0" cy="1" r="1" fill="#fff"/>
+    </g>
+  </g>
+  
+  <!-- Hand with net -->
+  <g transform="translate(670, 10)">
+    <!-- Net handle -->
+    <rect x="95" y="35" width="60" height="8" rx="4" fill="#78716c"/>
+    <rect x="95" y="35" width="60" height="4" rx="2" fill="#a8a29e"/>
+    
+    <!-- Net ring -->
+    <ellipse cx="70" cy="50" rx="45" ry="40" fill="none" stroke="#22c55e" stroke-width="4"/>
+    
+    <!-- Net mesh -->
+    <ellipse cx="70" cy="55" rx="40" ry="35" fill="url(#netGrad)" opacity="0.3"/>
+    
+    <!-- Net grid lines -->
+    <g stroke="#22c55e" stroke-width="1" opacity="0.6">
+      <path d="M35,40 Q70,90 105,40" fill="none"/>
+      <path d="M40,55 Q70,95 100,55" fill="none"/>
+      <path d="M50,70 Q70,95 90,70" fill="none"/>
+      <line x1="70" y1="15" x2="70" y2="90"/>
+      <line x1="50" y1="20" x2="50" y2="85"/>
+      <line x1="90" y1="20" x2="90" y2="85"/>
+    </g>
+    
+    <!-- Caught bug inside net (appears periodically) -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0" dur="5s" repeatCount="indefinite"/>
+      <ellipse cx="70" cy="55" rx="8" ry="5" fill="#e11d48"/>
+      <circle cx="78" cy="55" r="4" fill="#1f2937"/>
+      <text x="70" y="75" text-anchor="middle" fill="#16a34a" font-size="10" font-weight="bold">GOT IT!</text>
+    </g>
+    
+    <!-- Net swoosh effect -->
+    <ellipse cx="70" cy="50" rx="50" ry="45" fill="none" stroke="#22c55e" stroke-width="2" opacity="0" stroke-dasharray="10,5">
+      <animate attributeName="opacity" values="0;0.5;0" dur="1s" begin="4s" repeatCount="indefinite"/>
+      <animate attributeName="rx" values="45;55;45" dur="1s" begin="4s" repeatCount="indefinite"/>
+      <animate attributeName="ry" values="40;50;40" dur="1s" begin="4s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  
+  <!-- Title text -->
+  <text x="320" y="110" text-anchor="middle" fill="#4b5563" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="2">
+    CATCHING BUGS IS MY SUPERPOWER
+  </text>
+  
+  <!-- Decorative line -->
+  <line x1="100" y1="110" x2="180" y2="110" stroke="#e11d48" stroke-width="1" opacity="0.4"/>
+  <line x1="460" y1="110" x2="540" y2="110" stroke="#e11d48" stroke-width="1" opacity="0.4"/>
+</svg>

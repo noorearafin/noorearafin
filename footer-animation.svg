@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 80">
+  <!-- White Background -->
+  <rect width="850" height="80" fill="#ffffff"/>
+  
+  <!-- Animated code lines -->
+  <g fill="none" stroke-width="3" stroke-linecap="round">
+    <!-- Line 1 -->
+    <line x1="0" y1="15" x2="80" y2="15" stroke="#e11d48">
+      <animate attributeName="x1" values="-100;850" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-20;930" dur="6s" repeatCount="indefinite"/>
+    </line>
+    
+    <!-- Line 2 -->
+    <line x1="0" y1="30" x2="120" y2="30" stroke="#22c55e">
+      <animate attributeName="x1" values="-150;850" dur="5s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-30;970" dur="5s" begin="0.5s" repeatCount="indefinite"/>
+    </line>
+    
+    <!-- Line 3 -->
+    <line x1="0" y1="45" x2="60" y2="45" stroke="#f97316">
+      <animate attributeName="x1" values="-80;850" dur="7s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-20;910" dur="7s" begin="1s" repeatCount="indefinite"/>
+    </line>
+    
+    <!-- Line 4 -->
+    <line x1="0" y1="60" x2="100" y2="60" stroke="#a855f7">
+      <animate attributeName="x1" values="-120;850" dur="4.5s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-20;950" dur="4.5s" begin="1.5s" repeatCount="indefinite"/>
+    </line>
+  </g>
+  
+  <!-- Checkmarks appearing -->
+  <g fill="#22c55e" font-size="18" font-weight="bold">
+    <text x="200" y="40">
+      ✓
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="400" y="25">
+      ✓
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="50">
+      ✓
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" begin="1.6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  
+  <!-- Center text -->
+  <text x="425" y="75" text-anchor="middle" fill="#4b5563" font-family="Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1">
+    ✨ ALL TESTS PASSING • BUILDING QUALITY SOFTWARE ✨
+  </text>
+</svg>
