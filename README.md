@@ -1,4 +1,12 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6dar/assets/Bottom_up.svg" width="100%"/>
+<!-- Bug Catcher Animation Header - Save bug-catcher.svg to your repo -->
+<div align="center">
+  
+![Bug Catcher](bug-catcher.svg)
+
+<!-- Profile Views - Top Position -->
+![Profile Views](https://komarev.com/ghpvc/?username=noorearafin&color=e11d48&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -143,12 +151,15 @@ A passionate **Test Automation Engineer** who believes in shipping bug-free soft
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=noorearafin&color=e11d48&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
 **"Testing leads to failure, and failure leads to understanding."** — Burt Rutan
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+<br/>
+
+<!-- Footer Animation - Save footer-animation.svg to your repo -->
+<div align="center">
+  
+![Tests Passing](footer-animation.svg)
+
+</div>
