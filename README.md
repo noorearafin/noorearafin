@@ -20,7 +20,7 @@
 </p>
 
 <div align="center">
-  <a href="https://noorearafin.trendport.com">🌐 Portfolio</a> •
+  <a href="https://noorearafin.trendportbd.com">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/noor-e-arafin-rafi-18a2911a7/">💼 LinkedIn</a> •
   <a href="mailto:noorearafin@gmail.com">📧 Email</a> •
   <a href="https://www.hackerrank.com/noorearafin">👨‍💻 HackerRank</a>
@@ -147,7 +147,7 @@ A passionate **Test Automation Engineer** who believes in shipping bug-free soft
 
 ### 📬 Get In Touch
 
-[![Portfolio](https://img.shields.io/badge/noorearafin.trendport.com-e11d48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://noorearafin.trendport.com)
+[![Portfolio](https://img.shields.io/badge/noorearafin.trendportbd.com-e11d48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://noorearafin.trendport.com)
 
 <br/>
 
